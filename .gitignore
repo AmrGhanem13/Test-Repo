@@ -1,0 +1,6 @@
+## Ignoring all text files
+
+# *.txt
+
+## Ignoring all files in any directory named temp
+temp/
